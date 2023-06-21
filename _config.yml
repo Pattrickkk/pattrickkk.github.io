@@ -1,11 +1,11 @@
 title: Pattrick (Phat) Nguyen
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Msc. Aalto University in Business Analytics
   <br><br>
-  Second description 
+  Seeking new internship/trainee opportunities in Data Analytics, especially in Sales, Marketing and Supply Chain.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/phatnguyen95/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
