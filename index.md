@@ -31,13 +31,13 @@
 [Presentation](/pdf/Project4_Presentation.pdf) <br>
 
 ---
-### Project 5: Tourism Report for Uusimaa on PowerBI
+### Project 5: Tableau Challenge 2023
 
 <img src="images/5.png?raw=true"/><br>
 [Report](/pdf/Project5_Presentation.pdf) <br>
 
 ---
-### Project 6: Tableau Challenge 2023
+### Project 6: Tourism Report for Uusimaa on PowerBI
 
 <img src="images/6.png?raw=true"/><br>
 [Report](/pdf/Project6_Presentation.pdf) <br>
