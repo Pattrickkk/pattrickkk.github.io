@@ -5,28 +5,28 @@
 ### Project 1: Predicting Churn Rate of Customers in a European Bank
 
 <img src="images/1.png?raw=true"/> <br>
-[Python Notebook](/python/Project1.ipynb) <br>
+[Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project1.ipynb) <br>
 [Presentation](/pdf/Project1_Presentation.pdf) <br>
 
 ---
 ### Project 2: Natural Language Processing - Analyzing Amazon Reviews of Xbox and PlayStation
 
 <img src="images/2.png?raw=true"/><br>
-[Python Notebook](/python/Project2.ipynb) <br>
+[Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project2.ipynb) <br>
 [Report](/pdf/Project2_Report.pdf) <br>
 
 ---
 ### Project 3: Survival Analysis - Predicting Survival Rate of E-Scooters
 
 <img src="images/3.png?raw=true"/> <br>
-[Python Notebook](/python/Project3.ipynb) <br>
+[Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project3.ipynb) <br>
 [Report](/pdf/Project3_Report.pdf) <br>
 
 ---
 ### Project 4: Optimizing Supply Chain Network of REIMA
 
 <img src="images/4.png?raw=true"/> <br>
-[Python Notebook](/python/Project4.ipynb) <br>
+[Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project4.ipynb) <br>
 [Report](/pdf/Project4_Report.pdf) <br>
 [Presentation](/pdf/Project4_Presentation.pdf) <br>
 
