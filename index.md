@@ -36,12 +36,21 @@ Last but not least, I built classifier model based on Naive Bayes Classifier met
 ---
 ### Project 3: Survival Analysis - Predicting Survival Rate of E-Scooters
 
+This project is a module of the course Data Science for Business 2 at Aalto University. The dataset includes 283 observations of 283 scooters with 7 attributes. Using Kaplan Meier Estimator, a survival analysis is conducted with the historical data to build a survival analysis model to predict the survival rate of the scooters. Moreover, we look into the difference between scooters made by manufacturers A, B, and C.
+<br>
+<br>
+I used log-rank test p-value to confirm that there are difference in the survival rate between scotters made by manufacturors A, B, and C. After this, I built 2 models: Cox Regression and Random Survival Forest (RSF) to predict the survival rate of the scooters. The RSF model is then used to predict the survival rate of 10 new scooters which were not included in the dataset.
+<br>
+<br>
+
 <img src="images/3.png?raw=true"/> <br>
 [Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project3.ipynb) <br>
 [Report](/pdf/Project3_Report.pdf) <br>
 
 ---
 ### Project 4: Optimizing Supply Chain Network of REIMA
+
+This project 
 
 <img src="images/4.png?raw=true"/> <br>
 [Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project4.ipynb) <br>
