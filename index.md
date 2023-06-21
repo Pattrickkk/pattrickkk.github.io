@@ -13,34 +13,34 @@
 
 <img src="images/2.png?raw=true"/><br>
 [Python Notebook](/python/Project2.ipynb) <br>
-[Report](/pdf/Project2-Report.pdf) <br>
+[Report](/pdf/Project2_Report.pdf) <br>
 
 ---
 ### Project 3: Survival Analysis - Predicting Survival Rate of E-Scooters
 
 <img src="images/3.png?raw=true"/> <br>
 [Python Notebook](/python/Project3.ipynb) <br>
-[Report](/pdf/Project3-Report.pdf) <br>
+[Report](/pdf/Project3_Report.pdf) <br>
 
 ---
 ### Project 4: Optimizing Supply Chain Network of REIMA
 
 <img src="images/4.png?raw=true"/> <br>
 [Python Notebook](/python/Project4.ipynb) <br>
-[Report](/pdf/Project4-Report.pdf) <br>
-[Presentation](/pdf/Project4-Presentation.pdf) <br>
+[Report](/pdf/Project4_Report.pdf) <br>
+[Presentation](/pdf/Project4_Presentation.pdf) <br>
 
 ---
 ### Project 5: Tourism Report for Uusimaa on PowerBI
 
 <img src="images/5.png?raw=true"/><br>
-[Report](/pdf/Project5-Presentation.pdf) <br>
+[Report](/pdf/Project5_Presentation.pdf) <br>
 
 ---
 ### Project 6: Tableau Challenge 2023
 
 <img src="images/6.png?raw=true"/><br>
-[Report](/pdf/Project6-Presentation.pdf) <br>
+[Report](/pdf/Project6_Presentation.pdf) <br>
 
 ---
 
