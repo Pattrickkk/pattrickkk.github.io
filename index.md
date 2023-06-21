@@ -19,7 +19,15 @@ This project is a part of the course Data Science for Business 1 at Aalto Univer
 ---
 ### Project 2: Natural Language Processing - Analyzing Amazon Reviews of Xbox and PlayStation
 
-This project is a module of the course Data Science for Business 2 at Aalto University. The dataset provided contains text-based Amazon review of 2 products: Xbox and PlayStation. I created new function to clean the text (remove 
+This project is a module of the course Data Science for Business 2 at Aalto University. The dataset provided contains text-based Amazon review of 2 products: Xbox and PlayStation. Bag of Words approach was used for this project. I created new function to clean the text (remove symbols, URL, punctuation, special characters, etc.) as well as convert list to string and remove stopwords. Reviews were also categorized as negative (rating=1,2,3) and positive (rating=4,5).
+<br>
+<br>
+For each product, I created a separate wordcloud for positive and negative reviews to identify what people compliment or complain about.
+<br>
+<br>
+Last but not least, I built classifier model based on Naive Bayes Classifier method to predict the sentiment of the review based on text. The result was evaluated based on Accuracy score, precision, Recall, F1 score as well as Confusion Matrix.
+<br>
+<br>
 
 <img src="images/2.png?raw=true"/><br>
 [Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project2.ipynb) <br>
