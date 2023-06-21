@@ -43,4 +43,8 @@
 [Report](/pdf/Project6_Presentation.pdf) <br>
 
 ---
+### Project 7: Predicting Support Rate of Different Political Parties in Finland
 
+<img src="images/7.png?raw=true"/><br>
+[Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project7.ipynb) <br>
+[Report](/pdf/Project7_Presentation.pdf) <br>
