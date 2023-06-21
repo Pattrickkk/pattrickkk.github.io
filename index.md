@@ -4,6 +4,14 @@
 
 ### Project 1: Predicting Churn Rate of Customers in a European Bank
 
+This project is a part of the course Data Science for Business 1 at Aalto University. The dataset was downloaded from Kaggle, which contains data that has already been cleaned. The goal of the project was to build different predictive models so as to predict whether a customer is likely to churn or not from the bank. Due to the imbalance of the data (20% churn / 80% stay), I also implemented SMOTE to rebalance the data. However, the model is built from both original and balanced data.
+<br>
+<br>
+3 methods were use to build 6 different models: Decision Tree (with default parameters), Logistic Regression, and Support Vector Machine. Based on the Confusion Matrix and the ROC curve, it was concluded that Decision Tree models performed the best on the test set (30%). Furthermore, hyperparameter tuning was done for *max_depth*. However, the improvement of accuracy was minimal.
+<br>
+<br>
+
+
 <img src="images/1.png?raw=true"/> <br>
 [Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project1.ipynb) <br>
 [Presentation](/pdf/Project1_Presentation.pdf) <br>
@@ -11,9 +19,11 @@
 ---
 ### Project 2: Natural Language Processing - Analyzing Amazon Reviews of Xbox and PlayStation
 
+This project is a module of the course Data Science for Business 2 at Aalto University. The dataset provided contains text-based Amazon review of 2 products: Xbox and PlayStation. I created new function to clean the text (remove 
+
 <img src="images/2.png?raw=true"/><br>
 [Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project2.ipynb) <br>
-[Report](/pdf/Project2_Report.pdf) <br>
+[Report](/pdf/Project2-Report.pdf) <br>
 
 ---
 ### Project 3: Survival Analysis - Predicting Survival Rate of E-Scooters
