@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Project 1: Predicting Churn Rate of Customers in a European Bank
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
