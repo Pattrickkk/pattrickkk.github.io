@@ -5,8 +5,8 @@
 ### Project 1: Predicting Churn Rate of Customers in a European Bank
 
 <img src="images/1.png?raw=true"/> <br>
-[Python Notebook](Project 1 - (Python Notebook) Predictng Customer Churn Rate of a Bank.ipynb) 
-[Presentation](pdf/Project 1 - (Presentation) Predicting Customer Churn Rate of a Bank.pdf) 
+[Python Notebook](/Project 1 - (Python Notebook) Predictng Customer Churn Rate of a Bank.ipynb) 
+[Presentation](/pdf/Project 1 - (Presentation) Predicting Customer Churn Rate of a Bank.pdf) 
 ---
 ### Project 2: Natural Language Processing - Analyzing Amazon Reviews of Xbox and PlayStation
 
