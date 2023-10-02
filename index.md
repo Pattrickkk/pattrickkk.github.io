@@ -57,9 +57,9 @@ This project is part of a Supply Chain Capstone course, in collaboration with Re
 I received a score of 90/100 for this course and Reima representatives commented that my sales forecast was very accurate compared to their forecast. 
 <br>
 <br>
-[Python Notebook](https://nbviewer.org/urls/pattrickkk.github.io/python/Project4.ipynb) <br>
-[Report](/pdf/Project4_Report.pdf) <br>
-[Presentation](/pdf/Project4_Presentation.pdf) <br>
+[Python Notebook] <br>
+[Report] <br>
+[Presentation]<br>
 
 ---
 <br><img src="images/5.png?raw=true"/><br>
